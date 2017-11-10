@@ -1,0 +1,3 @@
+1.Judge x is postive or x can be divider with no remainder by 10 except 0;
+2.Then try to divided x into two number: x and y. x's length is half, the other's is half or half+1.
+3.If x == y or x == y/10, the integer is a palindrome.
